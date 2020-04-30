@@ -1,0 +1,58 @@
+#para1 p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#para2 p {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 30px; 
+    font-style: italic;
+}
+
+.gag_9 img{
+    height: 50px; 
+    width: 50px;
+}
+
+.facebook_small {
+    margin-left: 100px;
+    text-align: center;
+    float: left;
+}
+
+.facebook_small img {
+    height: 50px; 
+    width: 50px; 
+    opacity: 0.5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    filter: blur(2px);
+}
+
+.facebook_small img p {
+    text-align: inherit;
+}
+
+.master {
+    height: 100px;
+}
+
+.master .gag_image {
+    float: left;
+}
+
+.master .gag_image img {
+    height: inherit;
+    width: 100px;
+}
+
+.master .text {
+    border-width: 4px;
+    border-style: dotted;
+    border-radius: 40px;
+    padding: 5px;
+    height: inherit;
+    float: right;
+}
