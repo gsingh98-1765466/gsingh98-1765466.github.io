@@ -1,0 +1,32 @@
+#form-name {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:crimson;
+}
+
+form {
+    background-image: url(Over.png);
+}
+
+.chef-details {
+    display: flex;
+    align-items: center;
+}
+
+.likes {
+    float: inline-start;
+    color: blue;
+}
+
+.form-group-can-cook {
+    padding-left: 60px;
+}
+
+.form-group-fav-cut {
+    padding-left: 60px;
+}
+
+.likes-questions {
+    padding-left: 60px;
+}
